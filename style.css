@@ -90,7 +90,7 @@ footer{
 }
 
 .fix{
-    background-color: white;
+    background:linear-gradient(to left , #ba0e0e , white ,#ba0e0e);
 }
 
 ol{
