@@ -3,7 +3,7 @@ body{
     animation-duration:3s;
     transition:all 1s;
     animation-name:BodyChange;
-    background-color:#ff5005;
+    background-color:#1DE2D8;
 }
 
 @keyframes BodyChange{
