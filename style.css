@@ -8,7 +8,7 @@ body{
 
 @keyframes BodyChange{
     50%{
-        background-color:#ff2e05;
+        background-color:#fcaa1b;
     }
 }
 
@@ -90,7 +90,9 @@ footer{
 }
 
 .fix{
-    background:linear-gradient(to left , #ba0e0e , white ,#ba0e0e);
+    background:linear-gradient(to left ,white , red ,white);
+    text-align: center;
+
 }
 
 ol{
